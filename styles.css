@@ -1,0 +1,69 @@
+
+.div{
+    margin: 0 auto;
+    width:800px;
+    height:1000px;
+    border:rgb(103, 103, 103) solid 1px;
+    box-shadow: 3px 3px 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.div2{
+    height:100px
+}
+
+.page{
+    width: 650px;
+    height:7px;
+    background-color:purple;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.name{
+    font-size: 30px;
+    margin: 10px 0px 0px 80px;
+    color: black;
+}
+
+.job{
+    margin: 10px 0px 0px 80px;
+    font-size: 18px;
+    color: purple;
+}
+
+.identification{
+    margin: 10px 0px 0px 80px;
+    font-size: 11px;
+    color: rgb(98, 96, 96);
+}
+
+.bold{
+    margin: 30px 0px 0px 80px;
+    font-size: 18px;
+    color: purple;
+}
+
+.skills{
+    margin: 18px 0px 0px 80px;
+    font-size: 10px;
+    color: rgb(98, 96, 96);
+}
+
+.heading2{
+    margin: 10px 0px 0px 80px;
+}
+
+.list{
+    margin: 18px 0px 18px 80px;
+    font-size: 13px;
+    color: black;
+    max-width: 475px;
+
+
+}
+
+.middle{
+    color: rgb(98, 96, 96);
+    
+}
